@@ -12,5 +12,9 @@ color:
     - '#A2E3C4'
 layout_spectrum: 0.7149216579273343
 name: renter Evaluation
+navigation:
+  - name: Tenant Screening
+    url: 'https://www.tenantevaluation.com/'
+    type: external
 title: Smart Tenant Screening
 description: 'Free of charge, zero, zilch, nada'
