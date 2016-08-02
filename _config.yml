@@ -1,0 +1,14 @@
+layout_spectrum: 0.7149216579273343
+typography_spectrum: 0.23165618488565087
+color:
+  brandStrength: 0.7321892790496349
+  lightness: 0.2282852865755558
+  saturation: 0.9363007140345871
+  rhythmicContrast: 0.4536287342198193
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: renterevaluation
