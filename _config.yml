@@ -6,9 +6,10 @@ color:
   saturation: 0.9363007140345871
   rhythmicContrast: 0.4536287342198193
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: renterevaluation
+title: Smart Tenant Screening
