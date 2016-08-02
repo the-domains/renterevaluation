@@ -11,7 +11,9 @@ color:
     - '#F0F7F4'
     - '#A2E3C4'
 layout_spectrum: 0.7149216579273343
-name: renter Evaluation
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/88cac90d-5176-4a54-8d3d-26abb36975f6.png
+name: Renter Evaluation
 navigation:
   - name: Tenant Screening
     url: 'https://www.tenantevaluation.com/'
